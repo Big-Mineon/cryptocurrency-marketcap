@@ -1,0 +1,2 @@
+/api/*    https://pro-api.coinmarketcap.com/v1/:splat    200
+/*  /index.html  200
